@@ -1,0 +1,1 @@
+import{az as a}from"./BTbT73Y8.js";const s={user:{email:"",fullName:"",id:0,role:"",status:!1}},i=a("auth",{state:()=>s,getters:{isAuth:t=>t.user.status},actions:{clean(){this.$patch(s)},set(t){this.$patch({user:t})}}}),o=a("IsLoading",{state:()=>({isLoading:!0}),actions:{set(t){this.$patch({isLoading:t})}}});export{i as a,o as u};
