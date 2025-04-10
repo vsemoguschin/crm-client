@@ -1,0 +1,1 @@
+import{e as s,x as o,o as n,c as r,a as t}from"./B9c6pKD4.js";const a={class:"flex flex-col items-center justify-center h-screen"},d=s({__name:"index",setup(c){return o().push("/deals"),(i,e)=>(n(),r("div",a,e[0]||(e[0]=[t("h1",{class:"text-4xl font-bold"},"Welcome to the EasyNeon",-1),t("p",{class:"mt-4 text-lg"},"Redirecting...",-1)])))}});export{d as default};
