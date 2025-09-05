@@ -1,0 +1,1 @@
+import{bd as t}from"./WwwbTTwH.js";const i=t("auth",{state:()=>({user:null}),actions:{setUser(s){this.user=s},clearUser(){this.user=null}}}),a=t("isLoading",{state:()=>({isLoading:!1}),actions:{set(s){this.isLoading=s},toggle(){this.isLoading=!this.isLoading}}});export{i as a,a as u};
