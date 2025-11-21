@@ -1,0 +1,1 @@
+import{c as t}from"./FZp-tGSL.js";import{e as a,c as r,o as n,A as l,l as c,n as m}from"./BPanQlkR.js";const u=a({__name:"TableFooter",props:{class:{}},setup(e){const o=e;return(s,p)=>(n(),r("tfoot",{"data-slot":"table-footer",class:l(c(t)("bg-muted/50 border-t font-medium [&>tr]:last:border-b-0",o.class))},[m(s.$slots,"default")],2))}});export{u as _};
